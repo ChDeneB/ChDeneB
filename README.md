@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChDeneB
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in deep reinforcement learning
+- 🌱 I’m currently learning deep reinforcement learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
